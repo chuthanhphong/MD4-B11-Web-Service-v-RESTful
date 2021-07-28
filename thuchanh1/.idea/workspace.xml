@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d7eb4e0-2e98-493d-b692-d2ef4f651768" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/price/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/Customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/Customer/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/IGeneralService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/classes/com/codegym/repository/IUserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/Role/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/Role/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/User/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/food/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/food/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/food/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3/Download/apache-tomcat-9.0.48/webapps/ROOT/WEB-INF/views/food/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/thuchanh1.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cg/wbd/grandemonstration/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cg/wbd/grandemonstration/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cg/wbd/grandemonstration/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cg/wbd/grandemonstration/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cg/wbd/grandemonstration/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cg/wbd/grandemonstration/service/HibernateCustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cg/wbd/grandemonstration/service/impl/SimpleCustomerServiceImpl.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="1vw58m1BnlrzLup5l79dYKDkgW7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thuchanh1 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.thuchanh1 [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d7eb4e0-2e98-493d-b692-d2ef4f651768" name="Default Changelist" comment="" />
+      <created>1627460155560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627460155560</updated>
+      <workItem from="1627460158886" duration="1314000" />
+      <workItem from="1627465758927" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
